@@ -1,0 +1,28 @@
+# Ignorer l'environnement virtuel
+env/
+venv/
+.env/
+.venv/
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Caches et logs
+*.log
+*.pot
+*.mo
+*.sqlite3
+
+# Configurations locales
+.DS_Store
+.idea/
+.vscode/
+
+# Fichiers d'environnement
+.env.local
+.env.development
+.env.production
+
